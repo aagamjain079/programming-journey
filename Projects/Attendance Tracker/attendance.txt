@@ -1,0 +1,1 @@
+{"safe_limit": 75.0, "subjects": {"A": {"total": 11.0, "attended": 11.0}, "B": {"total": 11.0, "attended": 9.0}, "C": {"total": 12.0, "attended": 9.0}}}
